@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 # MY ENUMERABLE
 module Enumerable
   def get_all(enum = nil)
@@ -43,7 +41,3 @@ module Enumerable
     result
   end
 end
-
-
-
-
