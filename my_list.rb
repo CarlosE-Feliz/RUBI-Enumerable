@@ -32,7 +32,7 @@ puts(list.all? { |e| e > 5 })
 
 # any?
 puts(list.any? { |e| e == 2 })
-puts(list.any? { |e| e == 5 })
+puts(list.any? { |e| e == 11 })
 
 # filter
 puts(list.filter(&:even?))
