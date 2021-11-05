@@ -42,5 +42,4 @@ module Enumerable
     end
     result
   end
-
 end
