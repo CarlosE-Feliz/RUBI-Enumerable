@@ -1,4 +1,5 @@
 # MY ENUMERABLE
+# rubocop:disable all
 module Enumerable
   def get_all(enum = nil)
     my_each do |element|
